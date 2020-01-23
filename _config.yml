@@ -3,9 +3,9 @@
 
 # Site settings
 title: Mark Edgar Builders
-email: your-email@domain.com
+email: markedgar3@bigpond.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+phone: 0411 746 775
 
 # Team names, titles and social links
 people:
@@ -32,7 +32,7 @@ people:
   #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+socialX:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
